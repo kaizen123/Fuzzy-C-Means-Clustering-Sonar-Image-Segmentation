@@ -1,6 +1,6 @@
 # Sonar Image Segmentation via Fuzzy C-means Clustering
 
-Author: Shuyue Jia (Bruce Jia) and Mingyuan Tong
+Author: Shuyue Jia (Bruce Jia)
 
 Date: August of 2018
 
