@@ -5,7 +5,3 @@ Author: Shuyue Jia (Bruce Jia)
 Date: August of 2018
 
 These are dozens of segmentation experiments on sonar images via Fuzzy Method.
-
-
-If you guys have any problem on this, please WeChat me: fei0521yu0212 or add me as Facebook friend: https://www.facebook.com/SuperBruceJia. I'm pretty happy to help!
-
